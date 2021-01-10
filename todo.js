@@ -6,6 +6,7 @@ const TODOS_LS = "toDos";
 
 let toDos = [];
 let idNum = 1;
+//paintToDo함수의 newId를 length로 id를 지정해줄 경우 삭제하고 새로 만들때 length의 에러가 발생
 
 function deleteToDo(event){
     const btn = event.target;
