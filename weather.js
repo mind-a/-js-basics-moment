@@ -1,5 +1,5 @@
 const COORDS = "coords";
-const API_KEY = "4dc07e0c681779130bb0d18450ef7a86";
+const API_KEY = "xxxx";
 //https://openweathermap.org/ 의 api 키
 
 function saveCoords(coordsObj) {
